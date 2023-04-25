@@ -1,2 +1,2 @@
 # Proyecto_Telecomunicaciones
-Segundo proyecto individual. Data analityc
+Data analityc de acceso a internet a partir de datos extraídos de Enacom
