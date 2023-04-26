@@ -12,6 +12,7 @@ Interpretando el rol de un analista de datos contratado por una empresa prestado
 - Una vez cargados en Power BI comienzo el modelo de mi dashborad, con los 4 KPIs sugeridos para la empresa. 
 
 ## Resumen del análisis
+
 ## Aclaraciones
 
 #### En el repositorio pueden encontrar:  
@@ -19,5 +20,8 @@ Interpretando el rol de un analista de datos contratado por una empresa prestado
 - Archivo Mercado Internet.pbix del dashborad
 - Carpeta Datasets se encuentran los diferentes datasets utilizados extraídos de la API.
 
-
-Los datasets fueron extraídos desde la [API](https://datosabiertos.enacom.gob.ar/home) proporcionada por ENACOM (Ente Nacional de Comunicaciones).
+#### Para el desarrollo del proyecto se utilizó
+* Los datasets fueron extraídos desde la [API](https://datosabiertos.enacom.gob.ar/home) proporcionada por ENACOM (Ente Nacional de Comunicaciones).
+* Python
+* Visual Studio Code
+* Porwer BI
