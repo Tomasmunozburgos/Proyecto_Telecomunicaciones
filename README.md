@@ -11,7 +11,9 @@ Interpretando el rol de un analista de datos contratado por una empresa prestado
 - Realizo un proceso de ETL y EDA sobre los datos elegidos. 
 - Una vez cargados en Power BI comienzo el modelo de mi dashborad, con los 4 KPIs sugeridos para la empresa. 
 
-## Resumen del análisis
+## Observaciones del análisis
+
+A partir de los datos observados puedo indicar que en varias provincias sigue vigente el uso de tecnologías anticuadas tales como ADLS y el Dial Up las cuales no permiten a los usuarios disfrutar de una velocidad adecuada para la navegación por internet, sería conveniente invertir en estas áreas para actualizar la tecnología y ofrecer un servicio más óptimo. Lo mismo con el porcentaje de velocidad, en las provincias donde predomina un porcentaje de bajada menor a 30 Mpbs.
 
 ## Aclaraciones
 
