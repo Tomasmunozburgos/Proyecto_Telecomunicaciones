@@ -25,5 +25,6 @@ A partir de los datos observados puedo indicar que en varias provincias sigue vi
 #### Para el desarrollo del proyecto se utilizó
 * Los datasets fueron extraídos desde la [API](https://datosabiertos.enacom.gob.ar/home) proporcionada por ENACOM (Ente Nacional de Comunicaciones).
 * Python
+    Módulos: Pandas, Matplotlib y Seaborn.
 * Visual Studio Code
 * Porwer BI
